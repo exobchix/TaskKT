@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TaskKT</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Delete All</string>
+    <string name="name">Name</string>
+    <string name="desc">Desc</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description</string>
+    <string name="completed">Completed</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
